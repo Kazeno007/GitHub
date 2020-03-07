@@ -1,3 +1,3 @@
 # GitHub
 Discord bot programation
-Hi
+I´m create a bot for Discord
